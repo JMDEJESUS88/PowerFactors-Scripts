@@ -1,7 +1,7 @@
 # PowerFactors-Scripts
 
 PURPOSE
-The purpose of this tool (based off on python) is to search for the best available template that sits in the template.csv file pulled from PI-AF development server (DRIVE-PIAF-DEV) using PI-Builder. 
+The purpose of these tools (based off on python) is to perform iteration to automate tasks that and improve implementation engineering process by more than 30%.
 
 SCOPE
 The tool can be used during the implementation process by the IE to cut time finding and creating a new PI-AF template during the Data Connection phase.
